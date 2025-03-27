@@ -35,3 +35,4 @@ Check this sources for more in detail information. Remember this is an intro!
 4. [Oh shit, git]: https://ohshitgit.com/
 
 
+* Ry deleted my old bullet points >:(
